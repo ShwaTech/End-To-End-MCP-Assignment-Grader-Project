@@ -1,0 +1,9 @@
+groq
+pyMuPDF
+python-docx
+fuzzywuzzy
+python-Levenshtein
+requests
+streamlit
+python-dotenv
+ipykernel
